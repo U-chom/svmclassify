@@ -1,0 +1,17 @@
+Reading model...done.
+Reading test examples...done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 20.0000
+Zero/one-error on test set: 100.00% (0 correct, 1 incorrect, 1 total)
+NOTE: The loss reported above is the percentage of errors. The zero/one-error
+      is the multivariate zero/one-error regarding the whole prediction vector!
+Accuracy : 80.00
+Precision: 82.05
+Recall   : 96.97
+F1       : 88.89
+PRBEP    : 87.88
+ROCArea  : 58.87
+AvgPrec  : 86.96
+
+

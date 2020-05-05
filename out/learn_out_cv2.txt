@@ -1,0 +1,62 @@
+Reading training examples...done
+Training set properties: 223 features, 40 examples (33 pos / 7 neg)
+Iter 1: :*(NumConst=1, SV=1, CEps=100.0000, QPEps=0.0000)
+Iter 2: :*(NumConst=2, SV=2, CEps=39.7178, QPEps=0.0000)
+Iter 3: :*(NumConst=3, SV=2, CEps=34.4546, QPEps=0.0000)
+Iter 4: :*(NumConst=4, SV=3, CEps=24.9830, QPEps=0.0000)
+Iter 5: :*(NumConst=5, SV=5, CEps=19.9228, QPEps=0.0000)
+Iter 6: :*(NumConst=6, SV=6, CEps=11.1935, QPEps=0.0000)
+Iter 7: :*(NumConst=7, SV=5, CEps=15.4774, QPEps=0.0000)
+Iter 8: :*(NumConst=8, SV=6, CEps=4.6609, QPEps=0.0000)
+Iter 9: :*(NumConst=9, SV=6, CEps=21.5084, QPEps=0.0000)
+Iter 10: :*(NumConst=10, SV=5, CEps=21.8201, QPEps=5.5426)
+Iter 11: :*(NumConst=11, SV=5, CEps=18.8259, QPEps=0.0000)
+Iter 12: :*(NumConst=12, SV=5, CEps=19.9979, QPEps=0.0001)
+Iter 13: :*(NumConst=13, SV=5, CEps=11.9735, QPEps=0.0000)
+Iter 14: :*(NumConst=14, SV=5, CEps=4.7174, QPEps=0.0000)
+Iter 15: :*(NumConst=15, SV=6, CEps=0.2348, QPEps=0.0000)
+Iter 16: :*(NumConst=16, SV=7, CEps=26.6084, QPEps=5.8161)
+Iter 17: :*(NumConst=17, SV=7, CEps=20.7727, QPEps=0.9305)
+Iter 18: :*(NumConst=18, SV=8, CEps=16.1314, QPEps=0.0000)
+Iter 19: :*(NumConst=19, SV=7, CEps=15.0000, QPEps=0.0000)
+Iter 20: :*(NumConst=20, SV=7, CEps=27.3759, QPEps=2.2806)
+Iter 21: :*(NumConst=21, SV=10, CEps=18.6894, QPEps=0.3936)
+Iter 22: :*(NumConst=22, SV=8, CEps=18.3333, QPEps=0.0000)
+Iter 23: :*(NumConst=23, SV=7, CEps=32.6280, QPEps=0.0061)
+Iter 24: :*(NumConst=24, SV=10, CEps=26.8802, QPEps=4.7168)
+Iter 25: (NumConst=24, SV=10, CEps=0.0000, QPEps=4.7168)
+Iter 26: :*(NumConst=25, SV=10, CEps=10.9922, QPEps=4.6059)
+Iter 27: :*(NumConst=26, SV=13, CEps=6.7294, QPEps=0.8581)
+Iter 28: :*(NumConst=27, SV=13, CEps=3.1461, QPEps=1.1514)
+Iter 29: :*(NumConst=28, SV=15, CEps=1.4918, QPEps=0.5405)
+Iter 30: :*(NumConst=29, SV=14, CEps=1.1863, QPEps=0.3979)
+Iter 31: :*(NumConst=30, SV=17, CEps=1.4189, QPEps=0.4914)
+Iter 32: :*(NumConst=31, SV=18, CEps=1.0729, QPEps=0.4136)
+Iter 33: :*(NumConst=32, SV=20, CEps=0.9831, QPEps=0.4836)
+Iter 34: :*(NumConst=33, SV=19, CEps=0.8251, QPEps=0.3958)
+Iter 35: :*(NumConst=34, SV=19, CEps=0.6508, QPEps=0.2950)
+Iter 36: :*(NumConst=35, SV=18, CEps=0.8155, QPEps=0.2858)
+Iter 37: :*(NumConst=36, SV=20, CEps=0.7393, QPEps=0.2297)
+Iter 38: :*(NumConst=37, SV=23, CEps=0.3810, QPEps=0.1759)
+Iter 39: :*(NumConst=38, SV=23, CEps=0.3416, QPEps=0.1670)
+Iter 40: :*(NumConst=39, SV=21, CEps=0.2161, QPEps=0.1038)
+Iter 41: :*(NumConst=40, SV=22, CEps=0.5444, QPEps=0.2439)
+Iter 42: :*(NumConst=41, SV=25, CEps=0.1547, QPEps=0.0412)
+Iter 43: (NumConst=41, SV=25, CEps=0.0796, QPEps=0.0412)
+Iter 44: (NumConst=41, SV=25, CEps=0.0796, QPEps=0.0412)
+Final epsilon on KKT-Conditions: 0.07959
+Upper bound on duality gap: 1.98182
+Dual objective value: dval=301.68120
+Primal objective value: pval=303.61154
+Total number of constraints in final working set: 41 (of 41)
+Number of iterations: 44
+Number of calls to 'find_most_violated_constraint': 1315
+Number of SV: 25 
+Norm of weight vector: |w|=1.83346
+Value of slack variable (on working set): xi=15.01952
+Norm of longest difference vector: ||Psi(x,y)-Psi(x,ybar)||=121.80928
+Runtime in cpu-seconds: 0.01
+Compacting linear model...done
+Writing learned model...done
+
+
